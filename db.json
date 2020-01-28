@@ -1,1 +1,14 @@
-
+{
+  "artykuły": [
+    { "id": 1, "tytuł": "Art 1" },
+    { "id": 2, "tytuł": "Art 2" },
+    { "id": 3, "tytuł": "Art 3" }
+  ],
+  "komentarze": [
+    { "id": 1, "tresc": "some comment", "ArtId": 1 },
+    { "id": 2, "tresc": "some comment", "ArtId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
